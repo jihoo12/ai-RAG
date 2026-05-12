@@ -152,4 +152,4 @@ else:
 
     # --- 최종 문장 생성 ---
     print("\n--- 생성 결과 ---")
-    print(generate_text(model, "faith", char_to_int, int_to_char, seq_length, length=1000))
+    print(generate_text(model, "homotopy", char_to_int, int_to_char, seq_length, length=1000))
